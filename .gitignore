@@ -1,0 +1,65 @@
+# =========================
+# Unity generated folders
+# =========================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# =========================
+# Visual Studio / Rider
+# =========================
+.vs/
+.idea/
+.gradle/
+
+# Auto-generated solution and project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Unity package cache / misc
+# =========================
+/sysinfo.txt
+
+# =========================
+# Crash / log files
+# =========================
+*.log
+
+# =========================
+# If you export builds locally
+# =========================
+*.apk
+*.aab
+*.unitypackage
+
+# =========================
+# Optional: large media cache
+# Uncomment if needed
+# =========================
+# /Assets/StreamingAssets/Generated/
+# /Assets/AddressableAssetsData/*

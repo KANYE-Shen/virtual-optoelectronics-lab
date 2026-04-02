@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DemoScrew
+  - "dest\u8870\u51CF\u955C"
+  - "dest\u53CD\u5C04\u7EC4\u5408\u4EF6"
+  - "dest\u5927\u900F\u955C"
+  - "dest\u80FD\u91CF\u8BA1"
+  - "dest\u534A\u53CD\u534A\u900F\u955C"
+  - "dest\u53CD\u5C04\u955C"
+  - PlacementPlane
+  - DestMaterialSheet
+  - "\u6C14\u74F6\u9600\u95E8"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Valves
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
